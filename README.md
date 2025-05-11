@@ -54,7 +54,11 @@ A complexidade aumenta naturalmente conforme mais bolas interagem simultaneament
 
 ---
 
-## Execução
+## Imagens e Vídeos:
+
+
+---
+## Execução:
 
 1. Abra o projeto no VS Code, usando o ambiente com suporte ao SDK do Raspberry Pi Pico (CMake + compilador ARM);
 2. Compile o projeto normalmente (Ctrl+Shift+B no VS Code ou via terminal com cmake e make);
