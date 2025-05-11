@@ -56,6 +56,10 @@ A complexidade aumenta naturalmente conforme mais bolas interagem simultaneament
 
 ## Imagens e Vídeos:
 
+<img src="https://github.com/EmbarcaTech-2025/lab01_galton_board-nmarcal/blob/d2bcfeadcc0300a9fe0e928f7fc61f4a918bde31/assets/Galton_Board_1.jpg?raw=true" alt="Imagem_1" width="150" height="200"> <img src="https://github.com/EmbarcaTech-2025/lab01_galton_board-nmarcal/blob/d2bcfeadcc0300a9fe0e928f7fc61f4a918bde31/assets/Galton_Board_2.jpg?raw=true" alt="Imagem_2" width="150" height="200"> <img src="https://github.com/EmbarcaTech-2025/lab01_galton_board-nmarcal/blob/d2bcfeadcc0300a9fe0e928f7fc61f4a918bde31/assets/Galton_Board_3.jpg?raw=true" alt="Imagem_3" width="150" height="200">
+
+Vídeo do sistema em uso: [Galton Board - Semana 8 - Embarcatech 2025 2º Fase](https://www.youtube.com/watch?v=iCuJRc8VhTc&feature=youtu.be)
+
 
 ---
 ## Execução:
